@@ -1,1 +1,1 @@
-malicious-burst.surge.sh
+http://malicious-burst.surge.sh
